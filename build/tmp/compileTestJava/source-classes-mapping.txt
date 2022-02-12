@@ -1,0 +1,2 @@
+powerpackage/powerfinderTest.java
+ powerpackage.powerfinderTest
